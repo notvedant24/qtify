@@ -6,8 +6,6 @@ Qtify is a modern web application that delivers a Spotify-like experience right 
 
 ## 🌐 Live Demo
 
-
-
 🟣 **Vercel**  
 https://lsquare.vercel.app/
 
@@ -76,7 +74,7 @@ Copy
 Edit
 npm install
 ⚙️ Environment Configuration
-Create a .env file in the project root.
+Create a .env file in the root of your project.
 
 Add the following environment variables:
 
@@ -86,7 +84,7 @@ Edit
 REACT_APP_SPOTIFY_API_KEY=your_spotify_api_key
 REACT_APP_BASE_API_URL=https://api.spotify.com/v1
 REACT_APP_REDIRECT_URI=http://localhost:3000/callback
-🔑 Replace your_spotify_api_key with the key from your Spotify Developer Dashboard.
+🔑 Replace your_spotify_api_key with your actual API key from the Spotify Developer Dashboard.
 
 🚀 Running the App
 Start the development server:
@@ -124,5 +122,8 @@ Edit
 
 ---
 
-✅ Ready to copy and paste into your `README.md` file.  
-Let me know if you want a downloadable version, deploy badges, or screenshot embedding help.
+✅ Let me know if you want:
+- Badges (build, license, contributors, etc.)
+- Auto-deploy workflows (GitHub Actions or Vercel config)
+- Multiple screenshots or animated previews (GIFs)  
+- Light/dark mode toggles or SEO meta tags for GitHub pages.
