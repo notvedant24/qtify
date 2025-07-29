@@ -61,12 +61,14 @@ Set up the Qtify project on your local development environment using the guide b
 
    ```bash
    git clone https://github.com/notvedant24/qtify
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
+
 Copy
 Edit
+```bash
 cd L-Square-QTify
+```
 Install dependencies:
 
 bash
