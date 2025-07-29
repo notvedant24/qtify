@@ -64,42 +64,40 @@ Set up the Qtify project on your local development environment using the guide b
 2. Navigate to the project directory:
 
 
-Copy
-Edit
+
 ```bash
 cd L-Square-QTify
 ```
-Install dependencies:
+3. Install dependencies:
 
-bash
-Copy
-Edit
+```bash
+
 npm install
+```
 ⚙️ Environment Configuration
-Create a .env file in the root of your project.
+1. Create a .env file in the root of your project.
 
-Add the following environment variables:
+2. Add the following environment variables:
 
-env
-Copy
-Edit
+```env
+
 REACT_APP_SPOTIFY_API_KEY=your_spotify_api_key
 REACT_APP_BASE_API_URL=https://api.spotify.com/v1
 REACT_APP_REDIRECT_URI=http://localhost:3000/callback
+```
 🔑 Replace your_spotify_api_key with your actual API key from the Spotify Developer Dashboard.
 
 🚀 Running the App
 Start the development server:
 
-bash
-Copy
-Edit
-npm start
-Then open your browser and visit:
+```bash
 
+npm start
+```
+Then open your browser and visit:
+```
 arduino
-Copy
-Edit
+```
 http://localhost:3000
 You’re now running Qtify locally!
 
@@ -119,8 +117,6 @@ Vedant Singh
 🔗 GitHub Profile
 
 yaml
-Copy
-Edit
 
 ---
 
