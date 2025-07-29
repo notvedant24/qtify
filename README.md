@@ -7,7 +7,7 @@ Qtify is a modern web application that delivers a Spotify-like experience right 
 ## 🌐 Live Demo
 
 🟣 **Vercel**  
-https://lsquare.vercel.app/
+https://qtify-two-woad.vercel.app/
 
 ---
 
