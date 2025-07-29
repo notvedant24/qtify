@@ -1,12 +1,11 @@
-🎧 Qtify – A Spotify-Inspired Music Streaming Experience
+# 🎧 Qtify – A Spotify-Inspired Music Streaming Experience
+
 Qtify is a beautifully designed, web-based music streaming application that captures the essence of Spotify, allowing users to explore, play, and organize their favorite songs. With smooth playback controls, playlist management, and mobile responsiveness, Qtify brings the music you love to your fingertips — anytime, anywhere.
 
 🚀 Live Projects
-🟢 Netlify Deployment
-https://qtify-venkykumar.netlify.app/
 
 🟣 Vercel Deployment
-https://l-square-q-tify-venky-kumar.vercel.app/
+https://lsquare.vercel.app/
 
 🔥 Core Features
 ✅ User Profiles & Authentication
